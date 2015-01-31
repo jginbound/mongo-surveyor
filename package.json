@@ -1,0 +1,28 @@
+{
+  "name": "mongo-surveyor",
+  "version": "0.0.0",
+  "description": "A library for tracking MongoDB database and collection statistics, with particularly interest in tracking growth of collections related to tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmerkes/mongo-surveyor"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongo",
+    "Mongoose",
+    "NodeJS",
+    "Node",
+    "Grunt",
+    "GruntJS"
+  ],
+  "author": "Matt Merkes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmerkes/mongo-surveyor/issues"
+  },
+  "homepage": "https://github.com/mmerkes/mongo-surveyor"
+}
