@@ -1,3 +1,3 @@
 # Coming soon!
 
-made a new change here, keepin' it real w/ git. 
+Made a new change as I'm keeping it real w/ git
